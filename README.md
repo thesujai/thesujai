@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **thesujai/thesujai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Contributing actively to OpenSource.
+- 👯 A Software Developer.
+- 🚀 Adaptable and resourceful to any technology
+- *⚡ Fun fact: Thriving on challenges, I excel in tackling projects with any programming language or toolset. I embrace new technologies with enthusiasm to deliver optimal solutions.*
+
+
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesujai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
