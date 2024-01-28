@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Contributing actively to OpenSource.
+- 🌱 Contributing actively to OpenSource, because i like the feel when people use the code written by me.
 - 👯 A Software Developer.
 - 🚀 Adaptable and resourceful to any technology
 - *⚡ Fun fact: Thriving on challenges, I excel in tackling projects with any programming language or toolset. I embrace new technologies with enthusiasm to deliver optimal solutions.*
