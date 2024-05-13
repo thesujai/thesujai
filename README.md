@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Contributing actively to OpenSource, because i like the feel when people use the code written by me.
-- 👯 A Software Developer.
-- 🚀 Adaptable and resourceful to any technology
-- *⚡ Fun fact: Thriving on challenges, I excel in tackling projects with any programming language or toolset. I embrace new technologies with enthusiasm to deliver optimal solutions.*
+- I build software and help build them 😄
+- Feel free to contact me on any of my socials(provided on my profile) 💬
+- If you would like to collaborate on some project (or want any of my help!), let me know! I will do it as if it is my own!!
 
 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesujai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
