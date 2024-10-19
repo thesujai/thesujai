@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - If you would like to collaborate on some project (or want any of my help!), let me know! I will do it as if it is my own!!
 
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesujai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    [![An image of @thesujai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thesujai)](https://holopin.io/@thesujai)
 
   ![](https://komarev.com/ghpvc/?username=thesujai)
